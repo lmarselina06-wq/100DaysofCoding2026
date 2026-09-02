@@ -1,1 +1,1 @@
-int angka = 12;
+int angka = 123;
