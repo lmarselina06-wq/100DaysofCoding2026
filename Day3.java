@@ -4,7 +4,7 @@ public class Day3{
         //1. \n = enter(ketika di run iya membuat 3 baris terpisah)
         System.out.println("Baris 1\nBaris 2\nBaris 3\n");
 
-        //2.  \t = tab/membuat teks rata kanan agar terlihat rapi dan bisa membuat baris baru tanpa menggunakan println
+        //2.  \t = tab/membuat teks rata kanan agar terlihat rapi
         //3. manfaat \t yaitu membuat kolom agar kelihatan seperti tabel
         System.out.println("Nama:\tMarselina");
         System.out.println("Umur:\t20");
