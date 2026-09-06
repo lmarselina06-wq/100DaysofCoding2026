@@ -4,11 +4,10 @@ public class Day5 {
         // float wajib menggunakan huruf f di belakang angka
         // jika tidak di gunakan maka akan error
         // double = jumlah bit = 64 bit
-      
-        float nilai = 89.5f;      
-        double uang = 25000.50;   
-        System.out.println("Nilai: " + nilai);
-        System.out.println("Uang: " + uang);
+    float bb = 55.5f;      
+    double tb = 160.25;   
+    System.out.printf("%f %f", bb , tb); 
+
    
     }
 }
