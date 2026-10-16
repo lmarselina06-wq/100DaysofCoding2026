@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class day45 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("==== Menu Makann & Minum");
+        System.out.println("==== Menu Makanan & Minuman ====");
         System.out.println("1. Bakso bakar");
         System.out.println("2. Mie ayam");
         System.out.println("3. Ayam geprek");
@@ -11,6 +11,7 @@ public class day45 {
         System.out.println("6. Pop ice");
         System.out.println("7. Jus apel");
         System.out.println("Pilih menu 1 - 7");
+        System.out.println("========================");
         int menu = in.nextInt();
         switch (menu) {
             case 1 :
