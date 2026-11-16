@@ -21,7 +21,6 @@ public class MethodStringManipulasi {
         }
 
         String gantiHuruf = teksBersih.replace('a', '@');
-        // Ganti kata 'Majene' jadi 'Sulawesi Barat'
         String gantiKata = teksBersih.replace("Majene", "Sulawesi Barat");
 
         System.out.println("\n--- Hasilnya ---");
